@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test app #4": "jest",
+    "test_app_#4": "jest",
     "test-coverage": "jest --coverage"
   },
   "author": "",
