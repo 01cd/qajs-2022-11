@@ -5,24 +5,12 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "jest"
+    "test app #4": "jest",
+    "test-coverage": "jest --coverage"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/OTUS-QA-JS/qajs-2022-11.git"
-  },
-  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/OTUS-QA-JS/qajs-2022-11/issues"
-  },
-  "homepage": "https://github.com/OTUS-QA-JS/qajs-2022-11#readme",
   "devDependencies": {
-    "babel": "^6.23.0",
-    "jest": "^29.3.1",
-    "@babel/plugin-transform-modules-commonjs": "^7.19.6",
-    "@babel/preset-env": "^7.20.2",
-    "babel-jest": "^29.3.1"
+    "jest": "^29.3.1"
   }
 }
